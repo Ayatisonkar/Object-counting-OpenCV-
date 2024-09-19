@@ -1,0 +1,15 @@
+ECHO is on.
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore Visual Studio files
+.vs/
+
+# Ignore YOLO model weights
+yolov8l.pt
+
+# Ignore YOLO runs
+runs/
